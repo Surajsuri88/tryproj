@@ -1,0 +1,14 @@
+module add(r1,r2,r3,r4);
+input [7:0]r2,r3;
+output [7:0]r1;
+output [7:5]r4;
+
+
+assign r1=r2+r3;
+
+
+assign r4=[7:5] r1;
+initial begin
+$display("addition %d and %d is  %d and binary form is %b",r2,r3,r1,r4);
+end
+endmodule

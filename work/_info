@@ -1,0 +1,111 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/verilog/First_practice
+vadd
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 nf`N8W0CcaO8FJC`a1fCh0
+IHk;9WJI1Z`3k8FMo83<j>1
+Z1 dE:/project/practice
+w1720981969
+Z2 8try.v
+Z3 Ftry.v
+L0 1
+Z4 OL;L;10.6c;65
+!s108 1720981986.000000
+Z5 !s107 try.v|
+Z6 !s90 -reportprogress|300|try.v|
+!i113 0
+Z7 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z8 tCvgOpt 0
+vFull_add
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 koE5z7@SnBPaWQ[Mb4]Wc3
+I`aDn5e`0EhL:5Oe=3W<]61
+R1
+w1720766164
+8full_adder.v
+Ffull_adder.v
+L0 1
+R4
+!s108 1720766237.000000
+!s107 full_adder.v|
+!s90 -reportprogress|300|full_adder.v|
+!i113 0
+R7
+R8
+n@full_add
+vmul
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 l9O`D]X@;Ma^hgP?e?V6`2
+I;Oz1<7E=O0l88gHTXAd8l2
+R1
+w1720788068
+R2
+R3
+L0 1
+R4
+!s108 1720788083.000000
+R5
+R6
+!i113 0
+R7
+R8
+vp_adder
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 KmaO0c`YOInj<MV1b@cJW1
+I2k<oZ4:TNUYL_=5]1N;9=1
+R1
+w1720768110
+8paraller_adder.v
+Fparaller_adder.v
+L0 1
+R4
+!s108 1720769092.000000
+!s107 paraller_adder.v|
+!s90 -reportprogress|300|paraller_adder.v|
+!i113 0
+R7
+R8
+vxor_gate
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 ^Rn4kbml@8TnEV>Kbmaif1
+IK=0iQ1N6J<WAJ;@KlCC5]3
+R1
+w1720765282
+8xor_gate.v
+Fxor_gate.v
+L0 1
+R4
+!s108 1720768808.000000
+!s107 xor_gate.v|
+!s90 -reportprogress|300|xor_gate.v|
+!i113 0
+R7
+R8
